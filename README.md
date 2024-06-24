@@ -1,3 +1,4 @@
+## About Me
 * Hello! I'm Anas, a 23-year-old with a love for coffee ☕ (maybe a bit too much) and the ability to juggle 3 balls (4th incoming)!
 * I enjoy building end-to-end data solutions, focusing on analytical and predictive modeling. Currently, I'm expanding my skills in software and data engineering 💻 to bring my projects to life.
 * I am currently a Data Scientist intern at SITA, a global leader in IT and communication for the aviation sector ✈️. Here, I apply my skills in data science to solve real-world problems in aviation technology.
