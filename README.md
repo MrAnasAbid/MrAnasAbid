@@ -6,9 +6,15 @@
 ## Technical Skills
 * **Machine Learning**: Expertise in building predictive models.
 * **Data Manipulation**: Proficient in handling and analyzing large datasets.
+* **Signal Processing**: Deep understanding and practical knowledge of Fourier analysis, filters, and signal transformation techniques
 * **Statistics**: Strong understanding of statistical methods.
 * **Computer Vision**: Experience in processing and analyzing visual data.
 * **Communication**: Skilled in explaining technical concepts to non-technical stakeholders, including the distinction between precision and accuracy.
   
 ## Contact Me
 * Whether it's for a chat or a job opportunity, don't hesitate to contact me. I'm always open to new connections and collaborations!
+
+## Distinctions
+* **3rd place** 🥉 in the annual Arts et Métiers career fair innovation challenge
+* **6th place** in the annual Dassault UAV 🛩️ Challenge, a drone competition held between top French engineering schools
+* **Highest scorer** in the Signal Processing exam in engineering school (Fourier transforms are my guilty pleasure)
