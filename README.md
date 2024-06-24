@@ -6,7 +6,7 @@
 ## Technical Skills
 * **Machine Learning**: Expertise in building predictive models.
 * **Data Manipulation**: Proficient in handling and analyzing large datasets.
-* **Statistics: Strong**: understanding of statistical methods.
+* **Statistics**: Strong understanding of statistical methods.
 * **Computer Vision**: Experience in processing and analyzing visual data.
 * **Communication**: Skilled in explaining technical concepts to non-technical stakeholders, including the distinction between precision and accuracy.
   
