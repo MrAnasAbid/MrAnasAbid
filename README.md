@@ -11,4 +11,4 @@
 * **Communication**: Skilled in explaining technical concepts to non-technical stakeholders, including the distinction between precision and accuracy.
   
 ## Contact Me
-Whether it's for a chat or a job opportunity, don't hesitate to contact me. I'm always open to new connections and collaborations!
+* Whether it's for a chat or a job opportunity, don't hesitate to contact me. I'm always open to new connections and collaborations!
