@@ -1,5 +1,3 @@
-# About Me
-## Introduction
 * Hello! I'm Anas, a 23-year-old with a love for coffee ☕ (maybe a bit too much) and the ability to juggle 3 balls (4th incoming)!
 
 ## Interests and Passions
