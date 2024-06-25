@@ -1,15 +1,15 @@
 ## About Me
 * Hello! I'm Anas, a 23-year-old coffee lover ☕ (maybe a bit too much)
-* I enjoy building end-to-end data solutions, focused more on analytical and predictive modeling so far, and working on adding a software/data engineering skillset 💻 to give my projects some life.
+* I enjoy building end-to-end data solutions, focused more on analytical and predictive modeling so far, and working on adding a software/data engineering skillset 💻 to give my projects some life
 * I am currently a Data Scientist intern at SITA, a global leader in IT and communication for the aviation sector ✈️
 
 ## Technical Skills
-* **Machine Learning**: Expertise in building predictive models.
-* **Data Manipulation**: Proficient in handling and analyzing large datasets.
+* **Machine Learning**: Expertise in building predictive models
+* **Data Manipulation**: Proficient in handling and analyzing large datasets
 * **Signal Processing**: Deep understanding and practical knowledge of Fourier analysis, filters, and signal transformation techniques
 * **Statistics**: Strong understanding of statistical methods and hypothesis tests
-* **Computer Vision**: Experience in processing and analyzing visual data.
-* **Communication**: Used to explaining (among other things) the difference between precision and accuracy to non technical people
+* **Computer Vision**: Experience in processing and analyzing visual data
+* **Communication**: Skilled at explaining (among other things) the difference between precision and accuracy to non-technical folks
   
 ## Contact Me
 * Whether it's for a chat or a job opportunity, don't hesitate to contact me. I'm always open to new connections and collaborations!
