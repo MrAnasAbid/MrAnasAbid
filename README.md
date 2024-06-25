@@ -19,6 +19,6 @@
 * Whether it's for a chat or a job opportunity, don't hesitate to contact me. I'm always open to new connections and collaborations!
 
 ## Distinctions
-* **3rd place** 🥉 in the annual Arts et Métiers career fair innovation challenge
+* **3rd place** 🥉 in the 2023 Arts et Métiers career fair innovation challenge
 * **6th place** in the annual Dassault UAV 🛩️ Challenge, a drone competition held between top French engineering schools
 * **Highest scorer** in the Signal Processing exam in engineering school (Fourier transforms are my guilty pleasure)
