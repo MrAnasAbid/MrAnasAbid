@@ -13,7 +13,7 @@
 
 ## Work Experience
 - **Data Scientist** Internship at `SITA` ✈️, Paris, France (Ongoing)
-- **AI Engineer** Internship at `ENEDIS` 💡, Paris, France (3 months)
+- **Data Scientist** Internship at `ENEDIS` 💡, Paris, France (3 months)
 - **Signal Processing Intern** at `ONCF` 🚂, Rabat, Morocco (1 month)
   
 ## Education
