@@ -1,7 +1,7 @@
 ## About Me
 * Hello! I'm Anas, a 23-year-old coffee lover ☕ (maybe a bit too much)
 * I enjoy building end-to-end data solutions, focused more on analytical and predictive modeling so far, and working on adding a software/data engineering skillset 💻 to give my projects some life
-* I am currently a Data Scientist intern at SITA, a global leader in IT and communication for the aviation sector ✈️
+* I am currently a Machine Learning Engineer at SITA, a global leader in IT and communication for the aviation sector ✈️
 
 ## Technical Skills
 * **Machine Learning**: Expertise in building predictive models
@@ -12,7 +12,8 @@
 * **Communication**: Skilled at explaining (among other things) the difference between precision and accuracy to non-technical folks
 
 ## Work Experience
-- **Data Scientist** Internship at `SITA` ✈️, Paris, France (Ongoing)
+- **Machine Learning Engineer** at `SITA` ✈️, Paris, France (Ongoing)
+- **Data Scientist** Internship at `SITA` ✈️, Paris, France (6 months)
 - **Data Scientist** Internship at `ENEDIS` 💡, Paris, France (3 months)
 - **Signal Processing Intern** at `ONCF` 🚂, Rabat, Morocco (1 month)
   
