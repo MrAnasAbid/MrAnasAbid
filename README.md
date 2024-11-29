@@ -4,18 +4,20 @@
 * I am currently a Machine Learning Engineer at SITA, a global leader in IT and communication for the aviation sector ✈️
 
 ## Technical Skills
-* **Machine Learning**: Expertise in building predictive models
-* **Data Manipulation**: Proficient in handling and analyzing large datasets
-* **Signal Processing**: Deep understanding and practical knowledge of Fourier analysis, filters, and signal transformation techniques
-* **Statistics**: Strong understanding of statistical methods and hypothesis tests
-* **Computer Vision**: Experience in processing and analyzing visual data
-* **Communication**: Skilled at explaining (among other things) the difference between precision and accuracy to non-technical folks
+* **Machine Learning**: Regression, Classification, Time Series Analysis.
+* **Data Manipulation**: Data Cleaning, Parsing, Visualization, and Plotting.
+* **Signal Processing**: Fourier Analysis, Filtering, Signal Transformations.
+* **Statistics**: Correlation, Hypothesis Testing, ANOVA, Statistical Modeling.
+* **Software Development**: Modular Programming, Unit Testing, Code Optimization.
+* **MLOps**: Docker, CI/CD Pipelines (GitLab CI, GitHub Actions), Bash Scripting.
+* **Computer Vision**: Image Processing with OpenCV, PIL, and related libraries.
+* **Communication**: Ability to explain (among other things) the difference between precision and accuracy to non-technical folks
 
 ## Work Experience
 - **Machine Learning Engineer** at `SITA` ✈️, Paris, France (Ongoing)
-- **Data Scientist** Internship at `SITA` ✈️, Paris, France (6 months)
-- **Data Scientist** Internship at `ENEDIS` 💡, Paris, France (3 months)
-- **Signal Processing Intern** at `ONCF` 🚂, Rabat, Morocco (1 month)
+- **Data Scientist** Intern at `SITA` ✈️, Paris, France (6 months)
+- **Data Scientist** Intern at `ENEDIS` 💡, Paris, France (3 months)
+- **Signal Processing** Intern at `ONCF` 🚂, Rabat, Morocco (1 month)
   
 ## Education
 * **Digital Engineering** 🖥️ Major at ENSAM-Paris
